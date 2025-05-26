@@ -49,8 +49,8 @@ For this project, we utilize a custom dataset created specifically for training 
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/elifkeskin/Email-Spam-Detection.git
-    cd Email-Spam-Detection
+    git clone https://github.com/elifkeskin/Email_Spam_Detection.git
+    cd Email_Spam_Detection
     ```
 
 2. **Install Dependencies**
